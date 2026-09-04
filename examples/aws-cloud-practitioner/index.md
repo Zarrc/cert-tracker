@@ -27,7 +27,7 @@
 |---|---|
 | ✅ [[notes/云概念]] | 云计算定义、全球基础设施、责任共担模型、Well-Architected |
 | ✅ [[notes/安全与合规]] | IAM、安全服务速查、DDoS、共享责任模型 |
-| ✅ [[notes/技术]] | EC2/S3/数据库/网络/无服务器/监控速查 |
+| ✅ [[Project/cert-tracker/examples/aws-cloud-practitioner/notes/技术]] | EC2/S3/数据库/网络/无服务器/监控速查 |
 | ✅ [[notes/计费与定价]] | 定价模型、Organizations、计费工具、Support Plan |
 
 ## 资源
