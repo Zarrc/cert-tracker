@@ -3,6 +3,8 @@
 > **用 AI 自动整理备考资料、归纳笔记、生成练习题。**  
 > 丢一个课程链接进 `resources/`，AI 自动读、写笔记、出题、更新进度。
 
+> 🌐 **English edition?** The complete English system (own `CLAUDE.md`/`README.md`) lives in [`en/`](en/) — copy that folder to run an English workflow.
+
 ---
 
 ## ✨ 功能
@@ -54,7 +56,8 @@ AI 会自动：
 ```
 cert-tracker/
 ├── CLAUDE.md              ← AI 行为配置（告诉 AI 如何工作）
-├── README.md              ← 本文件
+├── README.md              ← 本文件（中文系统在根目录）
+├── en/                    ← English edition（完整英文版，含自身 CLAUDE.md/README）
 ├── .gitignore
 ├── template/              ← 模板：加新考试时复制此目录
 │   └── exam-name/
@@ -96,9 +99,3 @@ cert-tracker/
 - **笔记按 Domain 分开**：一个 Domain 一个文件，便于聚焦复习
 - **错题本及时记录**：做错的题记下来，AI 可以帮你分析薄弱点
 - **练习题定期回顾**：考前反复刷，查漏补缺
-
----
-
-## 📄 许可证
-
-MIT — 自由使用、分享、修改。
